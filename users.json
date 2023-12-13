@@ -1,0 +1,317 @@
+[
+    {
+        "UserId": 1,
+        "SurName": "Saiyed",
+        "FirstName": "Akib Ali",
+        "LastName": "Asif Ali",
+        "MobileNumber": 6355116899,
+        "Password": "akib@123"
+    },
+    {
+        "UserId": 2,
+        "SurName": "Saiyeda",
+        "FirstName": "Maherabanu",
+        "LastName": "Akib Ali",
+        "MobileNumber": 6355116899,
+        "Password": "mahera@123"
+    },
+    {
+        "UserId": 3,
+        "SurName": "Saiyed",
+        "FirstName": "Mohammed Sakil",
+        "LastName": "Asif Ali",
+        "MobileNumber": 9601455072,
+        "Password": "sakil@123",
+        "IsAdmin": true
+    },
+    {
+        "UserId": 4,
+        "SurName": "Saiyed",
+        "FirstName": "Sumaiyabanu",
+        "LastName": "Mohammed Sakil",
+        "MobileNumber": 9601455072,
+        "Password": "sumaiya@123"
+    },
+    {
+        "UserId": 5,
+        "SurName": "Saiyed",
+        "FirstName": "Sohil Ali",
+        "LastName": "Asif Ali",
+        "MobileNumber": 7600439352,
+        "Password": "sohil@123",
+        "IsAdmin": true
+    },
+    {
+        "UserId": 6,
+        "SurName": "Saiyeda",
+        "FirstName": "Akshabanu",
+        "LastName": "Sohil Ali",
+        "MobileNumber": 7600439352,
+        "Password": "aksha@123"
+    },
+    {
+        "UserId": 7,
+        "SurName": "Saiyeda",
+        "FirstName": "Sayerabibi",
+        "LastName": "Asif Ali",
+        "MobileNumber": 9327107049,
+        "Password": "sayera@123"
+    },
+    {
+        "UserId": 8,
+        "SurName": "Saiyed",
+        "FirstName": "Javid Ali",
+        "LastName": "Manavar Ali",
+        "MobileNumber": 8401948901,
+        "Password": "javid@123"
+    },
+    {
+        "UserId": 9,
+        "SurName": "Saiyeda",
+        "FirstName": "Tabassumbanu",
+        "LastName": "Javid Ali",
+        "MobileNumber": 8401948901,
+        "Password": "tabu@123"
+    },
+    {
+        "UserId": 10,
+        "SurName": "Saiyed",
+        "FirstName": "Fayaz Ali",
+        "LastName": "Makasud Ali",
+        "MobileNumber": 8140166138,
+        "Password": "fayaz@123"
+    },
+    {
+        "UserId": 11,
+        "SurName": "Saiyed",
+        "FirstName": "Vahid Ali",
+        "LastName": "Makasud Ali",
+        "MobileNumber": 8140166138,
+        "Password": "vahid@123"
+    },
+    {
+        "UserId": 12,
+        "SurName": "Saiyed",
+        "FirstName": "Niyamat Ali",
+        "LastName": "Lalupeer",
+        "MobileNumber": 9979234137,
+        "Password": "niyamat@123"
+    },
+    {
+        "UserId": 13,
+        "SurName": "Saiyed",
+        "FirstName": "Vasim Ali",
+        "LastName": "Shoukat Ali",
+        "MobileNumber": 9998749680,
+        "Password": "vasim@123",
+        "IsAdmin": true
+    },
+    {
+        "UserId": 14,
+        "SurName": "Saiyeda",
+        "FirstName": "Rashidabanu",
+        "LastName": "Vasim Ali",
+        "MobileNumber": 6353935451,
+        "Password": "rashida@123"
+    },
+    {
+        "UserId": 15,
+        "SurName": "Saiyed",
+        "FirstName": "Faruk Ali",
+        "LastName": "Shoukat Ali",
+        "MobileNumber": 9724377843,
+        "Password": "faruk@123"
+    },
+    {
+        "UserId": 16,
+        "SurName": "Saiyeda",
+        "FirstName": "Sahanabanu",
+        "LastName": "Faruk Ali",
+        "MobileNumber": 9724377843,
+        "Password": "sahana@123"
+    },
+    {
+        "UserId": 17,
+        "SurName": "Saiyeda",
+        "FirstName": "Akhtarbanu",
+        "LastName": "Taher Ali",
+        "MobileNumber": 9712345328,
+        "Password": "akhtar@123"
+    },
+    {
+        "UserId": 18,
+        "SurName": "Saiyeda",
+        "FirstName": "Rizwanabanu",
+        "LastName": "Shahid Ali",
+        "MobileNumber": 9979576427,
+        "Password": "shahid@123"
+    },
+    {
+        "UserId": 19,
+        "SurName": "Saiyed",
+        "FirstName": "Noman Ali",
+        "LastName": "Mohasin Ali",
+        "MobileNumber": 9714430941,
+        "Password": "noman@123"
+    },
+    {
+        "UserId": 20,
+        "SurName": "Saiyeda",
+        "FirstName": "Shifabanu",
+        "LastName": "Mohasin Ali",
+        "MobileNumber": 9714430941,
+        "Password": "shifa@123"
+    },
+    {
+        "UserId": 21,
+        "SurName": "Saiyed",
+        "FirstName": "Simanan Ali",
+        "LastName": "Asif Ali",
+        "MobileNumber": 9106551505,
+        "Password": "simanan@123"
+    },
+    {
+        "UserId": 22,
+        "SurName": "Saiyeda",
+        "FirstName": "Saguftabanu",
+        "LastName": "Simanan Ali",
+        "MobileNumber": 9106551505,
+        "Password": "sagufta@123"
+    },
+    {
+        "UserId": 23,
+        "SurName": "Saiyeda",
+        "FirstName": "Shehnazbibi",
+        "LastName": "Irfan Ali",
+        "MobileNumber": 9825729889,
+        "Password": "shehnaz@123"
+    },
+    {
+        "UserId": 24,
+        "SurName": "Saiyed",
+        "FirstName": "Mohammed Hani",
+        "LastName": "Irfan Ali",
+        "MobileNumber": 9904252146,
+        "Password": "hani@123"
+    },
+    {
+        "UserId": 25,
+        "SurName": "Saiyed",
+        "FirstName": "Muneer Ahmed",
+        "LastName": "Shabbir Ali",
+        "MobileNumber": 9712345328,
+        "Password": "imroz@123"
+    },
+    {
+        "UserId": 26,
+        "SurName": "Saiyeda",
+        "FirstName": "Tehminabanu",
+        "LastName": "Muneer Ahmed",
+        "MobileNumber": 9712345328,
+        "Password": "guddi@123"
+    },
+    {
+        "UserId": 27,
+        "SurName": "Saiyeda",
+        "FirstName": "Bisubibi",
+        "LastName": "Shabbir Ali",
+        "MobileNumber": 9712345328,
+        "Password": "bisu@123"
+    },
+    {
+        "UserId": 28,
+        "SurName": "Saiyed",
+        "FirstName": "Shabbir Ali",
+        "LastName": "Mahamadmiya",
+        "MobileNumber": 9712345328,
+        "Password": "shabbir@123"
+    },
+    {
+        "UserId": 29,
+        "SurName": "Saiyed",
+        "FirstName": "Saif Ali",
+        "LastName": "Mobin Ali",
+        "MobileNumber": 9624070652,
+        "Password": "saif@123"
+    },
+    {
+        "UserId": 30,
+        "SurName": "Saiyeda",
+        "FirstName": "Madinabibi",
+        "LastName": "Siddik Ali",
+        "MobileNumber": 9624070652,
+        "Password": "madina@123"
+    },
+    {
+        "UserId": 31,
+        "SurName": "Saiyeda",
+        "FirstName": "Mehmudabibi",
+        "LastName": "Javid Ali",
+        "MobileNumber": 9925108347,
+        "Password": "mehmuda@123"
+    },
+    {
+        "UserId": 32,
+        "SurName": "Saiyeda",
+        "FirstName": "Kehkashabanu",
+        "LastName": "Akib Ali",
+        "MobileNumber": 7990724896,
+        "Password": "kehkasha@123"
+    },
+    {
+        "UserId": 33,
+        "SurName": "Saiyed",
+        "FirstName": "Shahid Ali",
+        "LastName": "Maksud Ali",
+        "MobileNumber": 9979576427,
+        "Password": "shahid@123"
+    },
+    {
+        "UserId": 34,
+        "SurName": "Saiyeda",
+        "FirstName": "Fatimabanu",
+        "LastName": "Liyakat Ali",
+        "MobileNumber": 9979576427,
+        "Password": "fatima@123"
+    },
+    {
+        "UserId": 35,
+        "SurName": "Saiyed",
+        "FirstName": "Nadim Ali",
+        "LastName": "Mohasin Ali",
+        "MobileNumber": 9537525233,
+        "Password": "nadim@123"
+    },
+    {
+        "UserId": 36,
+        "SurName": "Saiyed",
+        "FirstName": "Hashmi Ali",
+        "LastName": "Sarafat Ali",
+        "MobileNumber": 7990356315,
+        "Password": "hashmi@123"
+    },
+    {
+        "UserId": 37,
+        "SurName": "Saiyed",
+        "FirstName": "Mohammed Nurani",
+        "LastName": "Hashmi Ali",
+        "MobileNumber": 7990356315,
+        "Password": "nurani@123"
+    },
+    {
+        "UserId": 38,
+        "SurName": "Saiyed",
+        "FirstName": "Mohammed Nabhani",
+        "LastName": "Hashmi Ali",
+        "MobileNumber": 7990356315,
+        "Password": "nabhani@123"
+    },
+    {
+        "UserId": 39,
+        "SurName": "Saiyed",
+        "FirstName": "Faruk Ali",
+        "LastName": "Ahmed Ali",
+        "MobileNumber": 6356274964,
+        "Password": "faruk2@123"
+    }
+]
