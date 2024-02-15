@@ -2,7 +2,7 @@ const User = require("../models/user");
 
 const getAllUsers = async (req, res) => {
     const myData = await User.find().sort({UserId : 1});
-    res.status(200).json({ myData })
+    res.status(200).json({ myData });
 };
 
 const getAllUsersTesting = async (req, res) => {
