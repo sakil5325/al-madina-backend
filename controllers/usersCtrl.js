@@ -17,6 +17,6 @@ const getUserByID = async (req, res) => {
 
 const getUserNameByID = async (userId) => {
     const userData = await User.findOne({UserId : userId});
-     return userData
+     return userData;
 }
 module.exports = {getAllUsers, getAllUsersTesting, getUserByID, getUserNameByID}
